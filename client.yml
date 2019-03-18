@@ -5,5 +5,5 @@ eureka:
 server:
   port: 8082
 userinfo:
-  username: jilinwula
+  username: admin
   password: 123456789
