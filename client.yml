@@ -7,3 +7,6 @@ spring:
     name: springcloud-client
 server:
   port: 8082
+userinfo:
+  username: 吉林乌拉
+  password: jilinwula
