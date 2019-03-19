@@ -1,3 +1,7 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8004/eureka
 server:
   port: 8082
 userinfo:
