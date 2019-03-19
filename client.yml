@@ -2,4 +2,4 @@ server:
   port: 8082
 userinfo:
   username: admin
-  password: 12345
+  password: 54321
